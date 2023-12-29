@@ -1,0 +1,14 @@
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.exe
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.deps.json
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.dll
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.pdb
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.dll
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\refint\MP03UF1AC3.dll
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.pdb
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\GitHub\MP03UF1AC3\obj\Debug\net8.0\ref\MP03UF1AC3.dll
